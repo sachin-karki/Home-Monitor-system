@@ -1,4 +1,4 @@
-﻿# Home Monitor SysteM
+﻿# Home Monitor System
 ##### *This README will thoroughly describe HMS.*
 ## Introduction - What is "Home Monitor System" and How does it Work?
   
